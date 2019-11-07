@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Iteracion1/Iteracion1.iml" filepath="$PROJECT_DIR$/Iteracion1/Iteracion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteracion2/Iteracion2.iml" filepath="$PROJECT_DIR$/Iteracion2/Iteracion2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hingra.iml" filepath="$PROJECT_DIR$/.idea/hingra.iml" />
     </modules>
   </component>
