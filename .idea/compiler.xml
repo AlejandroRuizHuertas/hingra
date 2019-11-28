@@ -6,7 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Prac1" />
+        <module name="Iteracion8" />
+        <module name="Iteracion7" />
+        <module name="Iteracion6" />
+        <module name="Iteracion5" />
+        <module name="Iteracion4" />
+        <module name="Iteracion3" />
+        <module name="Iteracion2" />
+        <module name="Iteracion1" />
       </profile>
     </annotationProcessing>
   </component>
